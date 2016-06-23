@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "name": "NUnitScaffold",
+  "description": "A quick start project for C# using NUnit",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cbayles/NUnitScaffold.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-msbuild": "^0.3.2",
+    "gulp-nuget-restore": "^0.4.0",
+    "gulp-nunit-runner": "^0.5.2"
+  }
+}
